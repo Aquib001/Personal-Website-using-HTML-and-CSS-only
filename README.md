@@ -4,4 +4,4 @@
 I have deployed this project on Netlify as it is significantly faster and stable than github pages.<p>
 <h3>My Next Project will on Bootstrap and I will try to implement new styles and features for my upcoming projects.</h3>
 <h2>Stay Tuned!!</h2>
-<a href="https://aquib001-personalsite.netlify.app/"></a>
+https://aquib001-personalsite.netlify.app/
